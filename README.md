@@ -16,5 +16,5 @@ mv ~/.cache/nvim{,.bak}
 ### copy config
 git clone git@github.com:fenohasinalala/neovim-config.git ~/.config/nvim
 
-###Start Neovim!
+### Start Neovim!
 nvim
